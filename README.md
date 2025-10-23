@@ -15,9 +15,13 @@ Demo 🎬
 Live demo:
 [View Demo](https://anile7.github.io/product-preview-card/)
 
-Screenshot:
-![Product Preview Card](images/screenshot.png)
+Screenshots:
 
+<p>Desktop view:</p>
+<img src="images/screenshot.png">
+
+<p>Mobile view:</p>
+<img src="images/mobile-screenshot.png" width="300">
 
 Features ✨
 - Responsive design for desktop and mobile
