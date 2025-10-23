@@ -20,14 +20,14 @@ Screenshot:
 
 
 Features ✨
- &mdash; Responsive design for desktop and mobile
- &mdash; Clean and minimal UI/UX
- &mdash; Fully customizable layout and colors
+&mdash; Responsive design for desktop and mobile
+&mdash; Clean and minimal UI/UX
+&mdash; Fully customizable layout and colors
 
 Technologies 🛠️
- &mdash; HTML5
- &mdash; CSS3 (Flexbox, Media Queries)
+&mdash; HTML5
+&mdash; CSS3 (Flexbox, Media Queries)
  
 
 Acknowledgements 🙏
- &mdash; This design is inspired by a challenge from [Frontend Mentor](https://www.frontendmentor.io).
+&mdash; This design is inspired by a challenge from [Frontend Mentor](https://www.frontendmentor.io).
